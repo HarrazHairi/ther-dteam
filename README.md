@@ -9,10 +9,12 @@
 <body>
     <h1>Welcome to our unfinished website ^_^</h1>
     
-    <p>Experience WebAR through our Quick Look functionality! Unfortunately we are not catering for Android bcs lol why should we</p>
+    <p>Experience WebAR through our Quick Look functionality!</p>
+    <br>
+    <p>Unfortunately, we are not catering for Android bcs grow up and get an iPhone!</p>
    
     <a href="tyresz.usdz" rel="ar">
-        <img src="tyre.png" width="200" align="middle">
+        <img src="tyre.png" width="200">
     </a>
 
 </body></html>

@@ -1,5 +1,3 @@
-<!DOCTYPE html>
-
 <html>
     
     
@@ -14,7 +12,7 @@
     <p>Experience WebAR through our Quick Look functionality! Unfortunately we are not catering for Android bcs lol why should we</p>
    
     <a href="tyresz.usdz" rel="ar">
-        <img src="tyre.png" width="200">
+        <img src="tyre.png" width="200" align="middle">
     </a>
 
 </body></html>

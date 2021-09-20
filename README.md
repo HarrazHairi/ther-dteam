@@ -13,7 +13,7 @@
     
     <p>Experience WebAR through the Quick Look functionality! Unfortunately we are not catering for Android bcs lol why should we</p>
    
-    <a href="tyre.usdz" rel="ar">
+    <a href="tyres.usdz" rel="ar">
         <img src="tyre.png" width="200">
     </a>
 

@@ -11,7 +11,7 @@
 <body>
     <h1>Welcome to our unfinished website ^_^</h1>
     
-    <p>Experience WebAR through the Quick Look functionality! Unfortunately we are not catering for Android bcs lol why should we</p>
+    <p>Experience WebAR through our Quick Look functionality! Unfortunately we are not catering for Android bcs lol why should we</p>
    
     <a href="tyres.usdz" rel="ar">
         <img src="tyre.png" width="200">

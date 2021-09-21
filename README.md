@@ -12,7 +12,7 @@
     <p>Experience WebAR through our Quick Look functionality!</p>
     <p>Unfortunately, we are not catering for Android bcs grow up and get an iPhone!</p>
    
-    <a href="tyresz.usdz" rel="ar">
+    <a href="proto.usdz" rel="ar">
         <img src="tyre.png" width="200" align = "center">
     </a>
 

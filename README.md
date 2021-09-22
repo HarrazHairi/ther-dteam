@@ -1,19 +1,37 @@
+<!doctype html>
 <html>
+  <head>
     
-    
-   <head>
-       <meta name="GCD" content="YTk3ODQ3ZWZhN2I4NzZmMzBkNTEwYjJl825c3147959a47938204cdd798ddf96e"/>
-        <title>Group 9 TTP</title>
-</head>
+    <title> Welcome to our AR Experience Room</title>
+	
+    <link rel="stylesheet" href="style.css">
+  </head>
 
-<body>
-    <h1>Welcome to our unfinished website ^_^</h1>
-    
-    <p>Experience AR through our Quick Look functionality!</p>
-    <p>Unfortunately, we are not catering for Android bcs grow up and get an iPhone!</p>
-   
-    <a href="proto.usdz" rel="ar">
-        <img src="tyre.png" width="200" align = "center">
-    </a>
 
-</body></html>
+  <body>
+
+    <div class="banner">
+      <div class="navbar">
+        <img src="logo.png" class="logo">
+        <ul>
+          <li><a href="#">Home</a></li>
+          <li><a href="#">About us</a></li>
+          <li><a href="#">Contact us</a></li>
+          <li><a href="#">AR Project</a></li>
+        </ul>
+      </div>
+
+      <div class="content">
+        <h1> <i>BesteReifen</i></h1>
+        <p>Peripheral-Based Sensor that Analayzes Tyre Conditions<br></p>
+          
+            <a href="proto.usdz" rel="ar">
+                <img src="websitetyre.png" width="200">
+            </a>
+           
+      </div>
+  </body>
+
+
+
+</html>
